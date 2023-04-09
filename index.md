@@ -39,7 +39,7 @@ Steps to get to these goals:
 
 ### My CS Knowledge
 - [x] Data Structures
-- [] Efficient Code
-- [] Implementing Solutions
+- [ ] Efficient Code
+- [ ] Implementing Solutions
 
 ### End of the Document
